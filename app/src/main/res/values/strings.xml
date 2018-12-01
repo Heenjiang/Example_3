@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Example_3</string>
+    <string name="login_button_text">login</string>
+    <string name="login_title">login</string>
+    <string name="pass_word_text_view">password</string>
+    <string name="login_out_text">loginOut</string>
+    <string name="thread_button_text">thread</string>
+    <string name="add_2">add 2</string>
+    <string name="add_5">add 5</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>

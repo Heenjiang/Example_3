@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="loginTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+    <style name="login_edit_text">
+        <item name="android:layout_marginLeft">@dimen/loginmargin</item>
+        <item name="android:layout_marginRight">@dimen/loginmargin</item>
+    </style>
+
+    <dimen name="loginmargin">50dp</dimen>
+</resources>
